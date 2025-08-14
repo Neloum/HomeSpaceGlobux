@@ -9097,7 +9097,7 @@ section,
 
 /* Style des logos */
 .logo-bar a img {
-  height: 10px;
+  height: 80px;
   transition: transform 0.3s ease;
 }
 
